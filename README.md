@@ -3,8 +3,7 @@ Performance dataset, a tabular dataset containing physical
 measurements and exercise performance indicators for over
 13,000 individuals. The aim was to investigate how body
 composition and physical capability relate to overall perfor
-mance class. The analysis applied data processing, descrip
-tive statistics, visualisation, feature engineering, Principal
+mance class. The analysis applied data processing, descriptive statistics, visualisation, feature engineering, Principal
 Component Analysis (PCA), and KMeans clustering. The
 results suggest that body fat percentage is negatively associ
 ated with performance-related variables such as sit-up count
